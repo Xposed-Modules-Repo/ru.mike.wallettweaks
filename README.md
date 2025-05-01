@@ -4,13 +4,13 @@ UI tweaks for Google Wallet
 
 ## Features:
 
-Display passes in 2-3 columns
-Hide pass icons or scale them down
-Show only pass titles
-All pass texts in a single line
-Scale down pass texts
+- Display passes in 2-3 columns
+- Hide pass icons or scale them down
+- Show only pass titles
+- All pass texts in a single line
+- Scale down pass texts
 
-<img src="https://i.postimg.cc/05mPKMmg/Wallet-Tweaks-screenshots-1.jpg" width="80" height="178"><img src="https://i.postimg.cc/05mPKMmg/Wallet-Tweaks-screenshots-2.jpg" width="80" height="178"><img src="https://i.postimg.cc/05mPKMmg/Wallet-Tweaks-screenshots-3.jpg" width="80" height="178"><img src="https://i.postimg.cc/05mPKMmg/Wallet-Tweaks-screenshots-4.jpg" width="80" height="178"><img src="https://i.postimg.cc/05mPKMmg/Wallet-Tweaks-screenshots-5.jpg" width="80" height="178">
+<img src="https://i.postimg.cc/05mPKMmg/Wallet-Tweaks-screenshots-1.jpg" width="80" height="178"><img src="https://i.postimg.cc/yYHBm1XD/Wallet-Tweaks-screenshots-2.jpg" width="80" height="178"><img src="https://i.postimg.cc/65fKzkYY/Wallet-Tweaks-screenshots-3.jpg" width="80" height="178"><img src="https://i.postimg.cc/y86HGLGB/Wallet-Tweaks-screenshots-4.jpg" width="80" height="178"><img src="https://i.postimg.cc/HkSg1QGM/Wallet-Tweaks-screenshots-5.jpg" width="80" height="178">
 
 ## Known issues:
 
