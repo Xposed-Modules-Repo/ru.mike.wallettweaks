@@ -10,7 +10,7 @@ UI tweaks for Google Wallet
 - All pass texts in a single line
 - Scale down pass texts
 
-<img src="https://i.postimg.cc/05mPKMmg/Wallet-Tweaks-screenshots-1.jpg" width="160" height="356"><img src="https://i.postimg.cc/yYHBm1XD/Wallet-Tweaks-screenshots-2.jpg" width="160" height="356"><img src="https://i.postimg.cc/65fKzkYY/Wallet-Tweaks-screenshots-3.jpg" width="160" height="356"><img src="https://i.postimg.cc/y86HGLGB/Wallet-Tweaks-screenshots-4.jpg" width="160" height="356"><img src="https://i.postimg.cc/HkSg1QGM/Wallet-Tweaks-screenshots-5.jpg" width="160" height="356">
+<img src="https://i.postimg.cc/05mPKMmg/Wallet-Tweaks-screenshots-1.jpg" width="160" height="356"><img src="https://i.postimg.cc/yYHBm1XD/Wallet-Tweaks-screenshots-2.jpg" width="160" height="356"><img src="https://i.postimg.cc/65fKzkYY/Wallet-Tweaks-screenshots-3.jpg" width="160" height="356"><img src="https://i.postimg.cc/2yHwS8C0/Wallet-Tweaks-screenshots-4.jpg" width="160" height="356"><img src="https://i.postimg.cc/gc44D433/Wallet-Tweaks-screenshots-5.jpg" width="160" height="356">
 
 ## Known issues:
 
